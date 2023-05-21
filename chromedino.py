@@ -138,7 +138,6 @@ class Cloud:
     def draw(self, SCREEN):
         SCREEN.blit(self.image, (self.x, self.y))
 
-
 class Obstacle:
     def __init__(self, image, type):
         self.image = image
