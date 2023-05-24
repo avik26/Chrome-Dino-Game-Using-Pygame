@@ -70,7 +70,7 @@ class Dinosaur:
         self.dino_rect = self.image.get_rect()
         self.dino_rect.x = self.X_POS
         self.dino_rect.y = self.Y_POS
-
+ 
     def update(self, userInput):
         if self.dino_duck:
             self.duck()
