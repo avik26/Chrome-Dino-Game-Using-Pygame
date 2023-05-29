@@ -6,7 +6,8 @@ import pygame
   
 pygame.init()
 
-# Global Constants
+# Global Constants 
+
 
 SCREEN_HEIGHT = 600
 SCREEN_WIDTH = 1100
